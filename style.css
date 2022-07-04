@@ -69,19 +69,20 @@ b {
     height: 116vh;
 }
 .main2 {
-    background-image: linear-gradient(to bottom right,rgb(51 65 78),rgb(26 29 30)), url('bgg.PNG');
+    background-image: linear-gradient(to bottom right,rgb(51 65 78 / 52%),rgb(26 29 30 / 87%)), url('bgg.PNG');
     width: 100%;
     height: 94vh;
 }
 .main2 table {
+    width: 60%;
     border-collapse: collapse;
-    margin-left: 20%;
+    margin-left: 10%;
     text-align: left;
     font-size: 20px;
 }
 .main2 table th {
     border-bottom: 2px solid white;
-    color: #e79191;
+    color: #e7b391;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
      font-weight: 200;
     
