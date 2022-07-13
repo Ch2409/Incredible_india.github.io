@@ -70,6 +70,7 @@ b {
 }
 .main2 {
     background-image: linear-gradient(to bottom right,rgb(51 65 78 / 52%),rgb(26 29 30 / 87%)), url('bgg.PNG');
+    background-repate:no-repate
     width: 100%;
     height: 94vh;
 }
